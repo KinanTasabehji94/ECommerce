@@ -1,0 +1,208 @@
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.deps.json
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.runtimeconfig.json
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.runtimeconfig.dev.json
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.dll
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.AssemblyInfoInputs.cache
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.AssemblyInfo.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.RazorAssemblyInfo.cache
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.RazorAssemblyInfo.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.TagHelpers.input.cache
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.TagHelpers.output.cache
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.RazorCoreGenerate.cache
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.RazorTargetAssemblyInfo.cache
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.RazorTargetAssemblyInfo.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.genruntimeconfig.cache
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.pdb
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.Views.dll
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.Views.pdb
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.Views.pdb
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.dll
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.pdb
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.csproj.CopyComplete
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.csproj.CoreCompileInputs.cache
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\RegisterAdmin.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Details.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Edit.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\RegisterSprovider.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.csprojAssemblyReference.cache
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Sproviders\Create.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Sproviders\Delete.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Sproviders\Details.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Sproviders\Edit.cshtml.g.cs
+C:\Users\kinan\Desktop\Blzaor\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Sproviders\Index.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ENG\Desktop\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\ENG\Desktop\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+C:\Users\ENG\Desktop\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
+C:\Users\ENG\Desktop\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ENG\Desktop\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.deps.json
+C:\Users\ENG\Desktop\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.runtimeconfig.json
+C:\Users\ENG\Desktop\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.runtimeconfig.dev.json
+C:\Users\ENG\Desktop\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.dll
+C:\Users\ENG\Desktop\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.pdb
+C:\Users\ENG\Desktop\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.Views.dll
+C:\Users\ENG\Desktop\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.Views.pdb
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.csprojAssemblyReference.cache
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.AssemblyInfoInputs.cache
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.AssemblyInfo.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.RazorAssemblyInfo.cache
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.RazorAssemblyInfo.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.TagHelpers.input.cache
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.TagHelpers.output.cache
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.RazorCoreGenerate.cache
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\RegisterAdmin.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\RegisterSprovider.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Details.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Edit.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Sproviders\Create.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Sproviders\Delete.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Sproviders\Details.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Sproviders\Edit.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Sproviders\Index.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.RazorTargetAssemblyInfo.cache
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.RazorTargetAssemblyInfo.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.Views.pdb
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.dll
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.pdb
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.genruntimeconfig.cache
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.csproj.CopyComplete
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Services\Create.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Services\Delete.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Services\Details.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Services\Edit.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Services\Index.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.csproj.CoreCompileInputs.cache
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Sproviders\CategoryCompanies.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Services\CompanyServices.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Delete.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Details.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Edit.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\ENG\Desktop\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Create.cshtml.g.cs
+C:\Users\ENG\Desktop\Ecommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Search.cshtml.g.cs
+C:\Users\ENG\Desktop\Ecommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Orders\CustomerOrders.cshtml.g.cs
+C:\Users\ENG\Desktop\Ecommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Orders\ServiceOrders.cshtml.g.cs
+C:\Users\ENG\Desktop\Ecommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Orders\ServiceProviderOrders.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.deps.json
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.runtimeconfig.json
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.runtimeconfig.dev.json
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.dll
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.pdb
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.Views.dll
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\bin\Debug\netcoreapp2.1\ECommerce.Views.pdb
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.AssemblyInfoInputs.cache
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.AssemblyInfo.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.csproj.CoreCompileInputs.cache
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.RazorAssemblyInfo.cache
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.RazorAssemblyInfo.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.TagHelpers.input.cache
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.TagHelpers.output.cache
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.RazorCoreGenerate.cache
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\RegisterAdmin.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\RegisterSprovider.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Create.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Delete.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Details.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Edit.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Index.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Create.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Orders\CustomerOrders.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Delete.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Details.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Edit.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Index.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Orders\ServiceProviderOrders.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Services\CompanyServices.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Services\Create.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Services\Delete.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Services\Details.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Services\Edit.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Services\Index.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Sproviders\CategoryCompanies.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Sproviders\Index.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.RazorTargetAssemblyInfo.cache
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.RazorTargetAssemblyInfo.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.Views.pdb
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.dll
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.pdb
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.genruntimeconfig.cache
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.csproj.CopyComplete
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Rate.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Disputes\Create.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Disputes\Delete.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Disputes\Details.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Disputes\Edit.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Disputes\Index.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Disputes\CustomerDisputes.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Disputes\CompanyDisputes.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\ECommerce.csprojAssemblyReference.cache
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Sproviders\Delete.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Sproviders\Details.cshtml.g.cs
+E:\Asus\Share\New Ecommerce\ECommerce\ECommerce\obj\Debug\netcoreapp2.1\Razor\Views\Sproviders\Edit.cshtml.g.cs
