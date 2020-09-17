@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using ECommerce.Models;
-using Ecommerce.Repositories.Interfaces;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Authorization;
+using ECommerce.Repositories.Interfaces;
 
 namespace ECommerce.Controllers
 {

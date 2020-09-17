@@ -252,7 +252,7 @@ using ECommerce.Models;
             WriteLiteral("                    ");
             EndContext();
             BeginContext(2390, 59, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1a7a5cae3ef34fbb80fdbeb9de6e6527", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "66c821d738c8497f96189a3f0f2e2d9d", async() => {
                 BeginContext(2438, 7, true);
                 WriteLiteral("Details");
                 EndContext();

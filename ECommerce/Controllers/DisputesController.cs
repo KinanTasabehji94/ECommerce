@@ -9,7 +9,6 @@ using ECommerce.Models;
 using ECommerce.Repositories.Interfaces;
 using Microsoft.AspNetCore.Identity;
 using System.Security.Claims;
-using Ecommerce.Models;
 using Microsoft.AspNetCore.Authorization;
 
 namespace ECommerce.Controllers

@@ -1,20 +1,24 @@
-﻿using Ecommerce.Models;
-using Ecommerce.Repositories.Interfaces;
-using ECommerce.Models;
+﻿using ECommerce.Models;
+using ECommerce.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Ecommerce.Repositories
+namespace ECommerce.Repositories
 {
     public class SproviderRepository : ISprovider
     {
         myDbContext db;
-        public SproviderRepository(myDbContext _db)
+        private readonly IService serviceRepository;
+        private readonly IUser userRepository;
+
+        public SproviderRepository(myDbContext _db, IService serviceRepository, IUser userRepository)
         {
             db = _db;
+            this.serviceRepository = serviceRepository;
+            this.userRepository = userRepository;
         }
         public void Add(Sprovider entity)
         {
@@ -25,6 +29,13 @@ namespace Ecommerce.Repositories
         public void Delete(int id)
         {
             var ServicesProvider = Find(id);
+            var services = serviceRepository.List().Where(x => x.SproviderId == id);
+            foreach (var item in services)
+            {
+                serviceRepository.Delete(item.Id);
+            }
+
+            userRepository.Delete(ServicesProvider.UserId);
 
             db.Sprovider.Remove(ServicesProvider);
             db.SaveChanges();

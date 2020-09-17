@@ -7,7 +7,6 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ECommerce.Models;
 using ECommerce.Repositories.Interfaces;
-using Ecommerce.Repositories.Interfaces;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNetCore.Routing;
 using Microsoft.AspNetCore.Authorization;

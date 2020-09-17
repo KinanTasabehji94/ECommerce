@@ -1,19 +1,21 @@
-﻿using Ecommerce.Models;
-using Ecommerce.Repositories.Interfaces;
-using ECommerce.Models;
+﻿using ECommerce.Models;
+using ECommerce.Repositories.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Ecommerce.Repositories
+namespace ECommerce.Repositories
 {
     public class CategoryRepository : ICategory
     {
         myDbContext db;
-        public CategoryRepository(myDbContext _db)
+        private readonly ISprovider sProviderRepository;
+
+        public CategoryRepository(myDbContext _db, ISprovider sProviderRepository)
         {
             db = _db;
+            this.sProviderRepository = sProviderRepository;
         }
         public void Add(Category entity)
         {
@@ -24,7 +26,11 @@ namespace Ecommerce.Repositories
         public void Delete(int id)
         {
             var category = Find(id);
-
+            var sProviders = sProviderRepository.List().Where(x => x.CategoryId == id);
+            foreach (var item in sProviders)
+            {
+                sProviderRepository.Delete(item.Id);
+            }
             db.Category.Remove(category);
             db.SaveChanges();
         }

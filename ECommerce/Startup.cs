@@ -12,10 +12,7 @@ using Microsoft.EntityFrameworkCore;
 using ECommerce.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Ecommerce.Models;
 using ECommerce.Models;
-using Ecommerce.Repositories.Interfaces;
-using Ecommerce.Repositories;
 using ECommerce.Repositories.Interfaces;
 using ECommerce.Repositories;
 using Microsoft.AspNetCore.Authorization;
@@ -59,6 +56,9 @@ namespace ECommerce
             services.AddScoped<IService, ServiceRepository>();
             services.AddScoped<IOrder, OrderRepository>();
             services.AddScoped<IDispute, DisputeRepository>();
+            services.AddScoped<IUser, UserRepository>();
+            services.AddScoped<IUserClaims, UserClaimsRepository>();
+
 
             services.AddAuthorization(options =>
             {

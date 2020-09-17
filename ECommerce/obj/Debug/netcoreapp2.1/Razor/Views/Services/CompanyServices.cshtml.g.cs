@@ -76,7 +76,7 @@ using ECommerce.Models;
             WriteLiteral("    <div class=\"panel panel-default\">\r\n        <div class=\"panel-heading\">\r\n\r\n            <div>\r\n                ");
             EndContext();
             BeginContext(264, 108, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "d53545c6504645f18a69482cb2ea7b98", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "de662620d2ab4b7cb06147386ad73907", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -111,12 +111,12 @@ AddHtmlAttributeValue("", 294, Model.FirstOrDefault().Sprovider.Image, 294, 39, 
             WriteLiteral("                <div class=\"col-md-3 thumbnail\" style=\"height: 280px; width: 250px; margin: 10px; \">\r\n                    ");
             EndContext();
             BeginContext(674, 326, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b756a1bbbc354c35a97ee9f01b47881a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d843c78860ab4a208dfa35ee5bc82c32", async() => {
                 BeginContext(789, 26, true);
                 WriteLiteral("\r\n                        ");
                 EndContext();
                 BeginContext(815, 78, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "a7d41244e39e4c8d80568267e5eea3b6", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "e2058eedf8f44e11a3afa692a5cbbf53", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

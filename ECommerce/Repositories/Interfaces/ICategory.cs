@@ -1,11 +1,10 @@
-﻿using Ecommerce.Models;
-using ECommerce.Models;
+﻿using ECommerce.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Ecommerce.Repositories.Interfaces
+namespace ECommerce.Repositories.Interfaces
 {
     public interface ICategory
     {

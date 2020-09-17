@@ -5,9 +5,8 @@ using System.IO;
 using System.Security.Claims;
 using System.Text.Encodings.Web;
 using System.Threading.Tasks;
-using Ecommerce.Models;
-using Ecommerce.Repositories.Interfaces;
 using ECommerce.Models;
+using ECommerce.Repositories.Interfaces;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Hosting.Server;
@@ -21,7 +20,7 @@ using Microsoft.AspNetCore.Mvc.ViewFeatures;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace Ecommerce.Areas.Identity.Pages.Account
+namespace ECommerce.Areas.Identity.Pages.Account
 {
     [AllowAnonymous]
     public class RegisterSprovider : PageModel

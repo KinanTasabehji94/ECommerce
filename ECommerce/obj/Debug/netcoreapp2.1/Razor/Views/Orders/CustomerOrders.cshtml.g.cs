@@ -255,7 +255,7 @@ using ECommerce.Models;
             WriteLiteral("                </td>\r\n                <td>\r\n                    ");
             EndContext();
             BeginContext(2662, 53, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1864725462ef4533b6e04568e09999fb", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "26ae741663304524ad0acc262d04d5e8", async() => {
                 BeginContext(2707, 4, true);
                 WriteLiteral("Rate");
                 EndContext();
@@ -290,7 +290,7 @@ using ECommerce.Models;
             WriteLiteral(" |\r\n                    ");
             EndContext();
             BeginContext(2739, 136, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7914d49c8957484cb0d24958c5a8f306", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1f3eb90e4eed44809f1c06e47b7ea4dc", async() => {
                 BeginContext(2857, 14, true);
                 WriteLiteral("Open Complaint");
                 EndContext();
@@ -345,7 +345,7 @@ using ECommerce.Models;
             WriteLiteral("                        ");
             EndContext();
             BeginContext(2980, 53, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "256076fb0cc9418493a18a9bf67d0742", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b568c976163247d28c022d8de796c01f", async() => {
                 BeginContext(3025, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -388,7 +388,7 @@ using ECommerce.Models;
             WriteLiteral("                  \r\n                    ");
             EndContext();
             BeginContext(3114, 59, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "571de6e5c04e4b1f80012f95df970a42", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67fbfb076a6a4d7f9b6bdec4bfa0d7c2", async() => {
                 BeginContext(3162, 7, true);
                 WriteLiteral("Details");
                 EndContext();
@@ -423,7 +423,7 @@ using ECommerce.Models;
             WriteLiteral(" |\r\n                    ");
             EndContext();
             BeginContext(3197, 57, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "124253a4f0ab43c3b68d2ee4265c7c8f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b6dadad0b1ef43658bbac19d85968294", async() => {
                 BeginContext(3244, 6, true);
                 WriteLiteral("Delete");
                 EndContext();

@@ -96,12 +96,12 @@ using ECommerce.Models;
             WriteLiteral("            <div class=\"col-md-3 thumbnail\" style=\"height: 280px; width: 250px; margin: 10px; \">\r\n                ");
             EndContext();
             BeginContext(497, 360, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "496d4201ee8a4090af653d13786067de", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "46813382b16340dfab1ad3747513d1f8", async() => {
                 BeginContext(629, 22, true);
                 WriteLiteral("\r\n                    ");
                 EndContext();
                 BeginContext(651, 80, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "4c32fa68a8284dd4b66ed8265a09ee05", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "e46f6c2c29de491084a8bd673c7dc188", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
